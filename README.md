@@ -43,3 +43,5 @@
 ## Further reading: 
   - [dvc](https://dvc.org/), [mlflow](https://mlflow.org/), [kubernetes](https://kubernetes.io/), [pytest](https://docs.pytest.org/en/7.4.x/)
   - [https://github.com/lokeshmohanty/mlops-pipeline](https://github.com/lokeshmohanty/mlops-pipeline)
+
+end
